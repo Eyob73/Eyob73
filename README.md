@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Full-Stack Developer passionate about building modern, scalable, and user-friendly applications. I enjoy turning ideas and real-world problems into practical software solutions.<br><br>My strongest experience is with Angular, React, .NET, Laravel, and PostgreSQL, with a focus on clean architecture, RESTful APIs, responsive interfaces, authentication, role-based access control, and business-focused applications.
 
 
